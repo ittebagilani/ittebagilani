@@ -1,10 +1,9 @@
 - Hi, I’m Itteba Gilani
 - I’m interested in coding, gaming, and tennis.
-- I’m currently practicing to become proficient in python data structures.
-- I’m looking to collaborate on any projects involving Unreal Engine and C++, Unity and C#, or intermediate python projects.
+- I’m currently focusing on the growing field of artificial intelligence and machine learning.
+- I’m looking to collaborate on any projects involving Unreal Engine and C++, Unity and C#, or other projects with Python.
 - How to reach me:
      - LinkedIn: https://www.linkedin.com/in/itteba-gilani/
-     - Instagram: https://www.instagram.com/ittxba/
      - Email: itteba1@gmail.com
 
 
