@@ -3,7 +3,7 @@
 - I’m currently focusing on the growing field of artificial intelligence and machine learning.
 - I’m looking to collaborate on any projects involving Unreal Engine and C++, Unity and C#, or other projects with Python.
 - How to reach me:
-     - Website: https://ittebagilani.tech      
+     - Website: https://ittebagilani.live      
      - LinkedIn: https://www.linkedin.com/in/itteba-gilani/
      - Email: itteba1@gmail.com
 
