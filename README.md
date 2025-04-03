@@ -1,4 +1,5 @@
-Hi, I’m Itteba Gilani
+Hi, I’m Itteba Gilani.
+
 I make problem solving apps and websites for businesses.
 
 Reach me at:
