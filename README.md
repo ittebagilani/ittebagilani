@@ -1,10 +1,11 @@
-- Hi, I’m Itteba Gilani
-- I make problem solving apps and websites for businesses.
-- How to reach me:
-     - Twitter/X: https://x.com/itteba_ 
-     - Website: https://ittebagilani.live      
-     - LinkedIn: https://www.linkedin.com/in/itteba-gilani/
-     - Email: itteba1@gmail.com
+Hi, I’m Itteba Gilani
+I make problem solving apps and websites for businesses.
+
+Reach me at:
+- Twitter/X: https://x.com/itteba_ 
+- Website: https://ittebagilani.live      
+- LinkedIn: https://www.linkedin.com/in/itteba-gilani/
+- Email: itteba1@gmail.com
 
 
 
