@@ -1,7 +1,5 @@
 - Hi, I’m Itteba Gilani
-- I’m interested in coding, gaming, and tennis.
-- I’m currently focusing on the growing field of artificial intelligence and machine learning.
-- I’m looking to collaborate on any projects involving Unreal Engine and C++, Unity and C#, or other projects with Python.
+- I make problem solving apps and websites for businesses.
 - How to reach me:
      - Twitter/X: https://x.com/itteba_ 
      - Website: https://ittebagilani.live      
